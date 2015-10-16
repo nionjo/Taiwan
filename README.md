@@ -19,6 +19,7 @@ providing no time savings over the Hsuehshan Tunnel.
 
 
 Public Transportation
+---------------------
 Buses and trains do run between Taipei and Yilan. The railroad, which travels along a similar route to Hwy 9, runs every half hour, and the total travel time is between one and two hours - depending on the train speed.
 
 Buses typically take the Freeway 5 route (joining the personal vehicle traffic) and the travel time is comparable to driving. Tour and commuter buses traveling from Taipei to Yilan are normally only half full (or less); however on weekends and holidays they can reach between 80 and 90 percent capacity.
@@ -30,6 +31,7 @@ Upon reaching Yilan, there is local transportation available: taxis, local buses
  
 
 Current Traffic Management Strategies
+-------------------------------------
 The Taiwanese government has been working to overcome the heavy traffic through the Hsuehshan Tunnel using a variety of methods. They’ve instituted a high-occupancy vehicle (HOV) policy during times of severe congestion. When the HOV policy is in effect only vehicles with more than three passengers can go through the tunnel.
 
 Typically, the HOV policy runs from the afternoon of Sunday (or the last day of a long weekend from 3pm – 8pm (from Yilan to Taipei). The HOV policy is also implemented on special holidays. For example:
@@ -46,6 +48,9 @@ Information-oriented solutions have also been made available. Private companies 
  
 
 Solution Ideas:
+---------------
+
+
 You could consider creating solutions which:
 
 Encourage public transportation use on Freeway 5
