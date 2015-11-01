@@ -1,4 +1,5 @@
 # Taiwan
+<<<<<<< HEAD
 
 
 The Problem
@@ -59,3 +60,5 @@ Use social media and crowdsourced data to identify traffic bottlenecks
 Allow commuters to plan carpools with their friends
 Allow commuters to estimate travel time for driving, bussing, and rail travel using directions and traffic information.
 Allow predictive travel time based on day and time of travel
+=======
+>>>>>>> 81f576ee9c3b12a6404023ced1eab8d02615b99b
